@@ -37,7 +37,7 @@ The desired width of the blinds. This value respects the unit system of the blen
 Length
 ~~~~
 
-The desired length of the blinds. For best results, set this value to something divisible by the slat spacing. This value respects the unit system of the blender file.
+The desired length of the blinds when fully extended. For best results, set this value to something divisible by the slat spacing. This value respects the unit system of the blender file.
 
 |
 
