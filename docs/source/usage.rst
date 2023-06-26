@@ -99,6 +99,6 @@ Rotate the entire assembly from the origin.
 Apply To Object
 ~~~~
 
-
+The resulting geometry will be based on instances for better performance. If you plan to export the object, you can turn on this setting to output a single mesh.
 
 |
