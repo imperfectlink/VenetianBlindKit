@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Venetian Blind Kit'
+copyright = '2023, ImperfectLink'
+author = 'ImperfectLink'
 
 release = '0.1'
 version = '0.1.0'
