@@ -61,10 +61,12 @@ Show or hide the tilt control object.
 
 |
 
-Tilt/Wand Pull
+Tilt Wand/Pull
 ~~~~
 
 Change whether the tilt control is a wand or a pull.
+
+.. image:: img/VBK_WandPull.gif
 
 |
 
