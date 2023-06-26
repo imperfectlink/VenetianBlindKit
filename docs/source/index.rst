@@ -20,6 +20,15 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 4
+   :hidden:
+   :caption: Venetian Blind Kit
 
-   usage
+    usage
    
+.. toctree::
+   :maxdepth: 4
+   :hidden:
+   :caption: Advanced Settings
+
+    slats
