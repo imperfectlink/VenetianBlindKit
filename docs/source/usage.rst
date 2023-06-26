@@ -27,8 +27,11 @@ Value from 0-1, raised fully to fully extended. This amount is also affected by 
 
 |
 
-Width
+Blind Dimensions
 ~~~~
+
+Width
+----
 
 The desired width of the blinds. This value respects the unit system of the blender file.
 
@@ -37,7 +40,7 @@ The desired width of the blinds. This value respects the unit system of the blen
 |
 
 Length
-~~~~
+----
 
 The desired length of the blinds when fully extended. For best results, set this value to something divisible by the slat spacing. This value respects the unit system of the blender file.
 
