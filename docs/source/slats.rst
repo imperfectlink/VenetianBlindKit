@@ -9,10 +9,14 @@ Slat Dimensions
 Slat Object
 ----
 
+This is where you choose the object that represents a slat in your blind.
+
 |
 
 Slat Spacing
 ----
+
+Set the distance between slats.
 
 .. image:: img/VBK_SlatSpacing.gif
 
@@ -21,10 +25,14 @@ Slat Spacing
 Stack Thickness
 ----
 
+This number represents the stack distance of the slat objects. Set it to your slat thickness plus a little for an air gap.
+
 |
 
 Slat Turning Point
 ----
+
+This is the distance from the bottom that the slat starts to turn from its set rotation to its stacked rotation (0°). 
 
 |
 
