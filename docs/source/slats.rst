@@ -11,6 +11,8 @@ Slat Object
 Slat Spacing
 ~~~~
 
+.. image:: img/VBK_SlatSpacing.gif
+
 |
 
 Stack Thickness
