@@ -84,6 +84,8 @@ Cord/Tape
 
 Change whether the ladder is cord or tape.
 
+.. image:: img/VBK_CordTape.gif
+
 |
 
 Stop Distance Offset
