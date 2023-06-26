@@ -48,12 +48,16 @@ Lift Control
 
 Show or hide the lift control object. Turn it off for blinds that are pulled down via the bottom rail as a handle.
 
+.. image:: img/VBK_LiftToggle.gif
+
 |
 
 Tilt Control
 ~~~~
 
 Show or hide the tilt control object.
+
+.. image:: img/VBK_TiltToggle.gif
 
 |
 
