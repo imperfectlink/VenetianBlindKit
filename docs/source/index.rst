@@ -27,9 +27,10 @@ Contents
    
    usage
    
+
 .. toctree::
    :maxdepth: 4
    :hidden:
    :caption: Advanced Settings
-
-    slats
+   
+   slats
