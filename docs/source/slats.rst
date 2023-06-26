@@ -13,6 +13,8 @@ Slat Object
 
 This is where you choose the object that represents a slat in your blind.
 
+.. image:: img/VBK_SlatModels.jpg
+
 |
 
 Slat Spacing
