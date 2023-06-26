@@ -102,14 +102,14 @@ Specify how far from the headrail the blind should stop.
 Blind Offset
 ~~~~
 
-Offset the blind from the headrail.
+Offset the blind from the headrail. This is especially useful if you have an odd slat spacing or a larger or smaller headrail.
 
 |
 
 Assembly Offset
 ~~~~
 
-Offset the entire assembly from the origin.
+Offset the entire assembly from the origin. This in conjunction with the Assembly Rotation is useful if you want to change how the snapping behaves when you drag it from the Asset Browser.
 
 |
 
@@ -124,5 +124,7 @@ Apply To Object
 ~~~~
 
 The resulting geometry will be based on instances for better performance. If you plan to export the object, you can turn on this setting to output a single mesh.
+
+.. image:: img/VBK_Wire.jpg
 
 |
