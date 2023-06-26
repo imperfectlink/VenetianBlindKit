@@ -47,6 +47,8 @@ Slat Smoothing Distance
 
 Adjust this value to soften the impact that the slat has when stacking.
 
+.. image:: img/VBK_Smoothing.gif
+
 |
 
 Slat Base Width
