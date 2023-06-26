@@ -9,8 +9,11 @@ All of the parameters that you need for basic operation are located in the top s
 
 |
 
-Angle
+Basic Controls
 ~~~~
+
+Angle
+----
 
 Use this value to set the angle of the slats in degrees. Range is from -90° to 90°.
 
@@ -19,7 +22,7 @@ Use this value to set the angle of the slats in degrees. Range is from -90° to 
 |
 
 Raise/Lower
-~~~~
+----
 
 Value from 0-1, raised fully to fully extended. This amount is also affected by the Stop Distance Offset value.
 
@@ -48,7 +51,7 @@ The desired length of the blinds when fully extended. For best results, set this
 
 |
 
-Blind Controls
+Blind Control Settings
 ~~~~
 
 Lift Control
