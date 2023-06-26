@@ -19,12 +19,13 @@ Requirements
 Contents
 --------
 
+
 .. toctree::
    :maxdepth: 4
    :hidden:
-   :caption: Venetian Blind Kit
-
-    usage
+   :caption: Introduction
+   
+   usage
    
 .. toctree::
    :maxdepth: 4
