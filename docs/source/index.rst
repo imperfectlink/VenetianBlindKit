@@ -1,4 +1,4 @@
-..image:: img/VBK_Banner.gif
+.. image:: img/VBK_Banner.gif
 
 |
 
