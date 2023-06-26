@@ -1,6 +1,8 @@
 Settings - Slat
 ====
 
+.. image:: img/VBK_Slats.jpg
+
 |
 
 Slat Dimensions
