@@ -23,6 +23,8 @@ Raise/Lower
 
 Value from 0-1, raised fully to fully extended. This amount is also affected by the Stop Distance Offset value.
 
+.. image:: img/VBK_Lift.gif
+
 |
 
 Width
