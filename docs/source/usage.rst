@@ -14,6 +14,8 @@ Angle
 
 Use this value to set the angle of the slats in degrees. Range is from -90° to 90°.
 
+.. image:: img/VBK_Tilt.gif
+
 |
 
 Raise/Lower
@@ -27,6 +29,8 @@ Width
 ~~~~
 
 The desired width of the blinds. This value respects the unit system of the blender file.
+
+.. image:: img/VBK_Resize.gif
 
 |
 
