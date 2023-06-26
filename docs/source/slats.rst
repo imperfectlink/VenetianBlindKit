@@ -38,6 +38,8 @@ Slat Turning Point
 
 This is the distance from the bottom that the slat starts to turn from its set rotation to its stacked rotation (0°). 
 
+.. image:: img/VBK_Turn.gif
+
 |
 
 Slat Smoothing Distance
