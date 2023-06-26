@@ -75,6 +75,8 @@ Lift/Tilt Flip Side
 
 Change which side the tilt and lift controls are located.
 
+.. image:: img/VBK_Flip.gif
+
 |
 
 Cord/Tape
