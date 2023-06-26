@@ -48,8 +48,11 @@ The desired length of the blinds when fully extended. For best results, set this
 
 |
 
-Lift Control
+Blind Controls
 ~~~~
+
+Lift Control
+----
 
 Show or hide the lift control object. Turn it off for blinds that are pulled down via the bottom rail as a handle.
 
@@ -58,7 +61,7 @@ Show or hide the lift control object. Turn it off for blinds that are pulled dow
 |
 
 Tilt Control
-~~~~
+----
 
 Show or hide the tilt control object.
 
@@ -67,7 +70,7 @@ Show or hide the tilt control object.
 |
 
 Tilt Wand/Pull
-~~~~
+----
 
 Change whether the tilt control is a wand or a pull.
 
@@ -76,7 +79,7 @@ Change whether the tilt control is a wand or a pull.
 |
 
 Lift/Tilt Flip Side
-~~~~
+----
 
 Change which side the tilt and lift controls are located.
 
@@ -85,7 +88,7 @@ Change which side the tilt and lift controls are located.
 |
 
 Cord/Tape
-~~~~
+----
 
 Change whether the ladder is cord or tape.
 
@@ -93,8 +96,11 @@ Change whether the ladder is cord or tape.
 
 |
 
-Stop Distance Offset
+Additional Settings
 ~~~~
+
+Stop Distance Offset
+----
 
 Specify how far from the headrail the blind should stop.
 
@@ -103,28 +109,28 @@ Specify how far from the headrail the blind should stop.
 |
 
 Blind Offset
-~~~~
+----
 
 Offset the blind from the headrail. This is especially useful if you have an odd slat spacing or a larger or smaller headrail.
 
 |
 
 Assembly Offset
-~~~~
+----
 
 Offset the entire assembly from the origin. This in conjunction with the Assembly Rotation is useful if you want to change how the snapping behaves when you drag it from the Asset Browser.
 
 |
 
 Assembly Rotation
-~~~~
+----
 
 Rotate the entire assembly from the origin.
 
 |
 
 Apply To Object
-~~~~
+----
 
 The resulting geometry will be based on instances for better performance. If you plan to export the object, you can turn on this setting to output a single mesh.
 
