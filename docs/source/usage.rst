@@ -95,6 +95,8 @@ Stop Distance Offset
 
 Specify how far from the headrail the blind should stop.
 
+.. image:: img/VBK_StopDistance.jpg
+
 |
 
 Blind Offset
