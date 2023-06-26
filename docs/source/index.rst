@@ -4,6 +4,8 @@ Welcome to Venetian Blind Kit documentation!
 
 .. image:: img/VBK_Banner.gif
 
+|
+
 Venetian Blind Kit is a generator and library of venetian blinds and mini blinds built using the power and flexibility of geometry nodes.
 
 |
