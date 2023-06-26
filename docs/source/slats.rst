@@ -27,6 +27,8 @@ Set the distance between slats.
 Stack Thickness
 ----
 
+.. image:: img/VBK_Stack.gif
+
 This number represents the stack distance of the slat objects. Set it to your slat thickness plus a little for an air gap.
 
 |
