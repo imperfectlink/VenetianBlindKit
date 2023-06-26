@@ -15,11 +15,6 @@ Requirements
 
 |
 
-
-Contents
---------
-
-
 .. toctree::
    :maxdepth: 4
    :hidden:
