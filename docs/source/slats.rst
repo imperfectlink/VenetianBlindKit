@@ -61,7 +61,7 @@ Slat Offset
 
 |
 
-Slat Hole Diemsions
+Slat Hole Dimensions
 ~~~~
 
 Slat Hole Punch
