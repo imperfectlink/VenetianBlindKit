@@ -1,6 +1,8 @@
 Settings - Cord
 ====
 
+.. image:: img/VBK_Cord.jpg
+
 |
 
 Cord Dimensions
