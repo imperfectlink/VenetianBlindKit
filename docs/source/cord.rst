@@ -23,6 +23,8 @@ Inner Cord Radius
 Tape Width
 ----
 
+.. image:: img/VBK_TapeWidth.gif
+
 |
 
 Tape Thickness
