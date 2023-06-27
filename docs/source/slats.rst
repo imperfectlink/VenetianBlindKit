@@ -97,6 +97,8 @@ Slat Hole Punch
 
 VBK can punch holes in your slats for you. Turn this off if you've already modeled the holes in your slat model.
 
+.. image:: img/VBK_SlatHolePunch.gif
+
 |
 
 Slat Hole Height
