@@ -20,6 +20,8 @@ Links
 ~~~~
 
 `BlenderMarket <https://blendermarket.com/products/vbk>`_
+|
+`Gumroad <https://imperfectlink.gumroad.com/l/vbk>`_
 
 |
 
