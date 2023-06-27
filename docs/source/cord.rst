@@ -56,6 +56,8 @@ Cord Settings
 Cross Tape
 ----
 
+.. image:: img/CrossTape.gif
+
 |
 
 Ladders
