@@ -9,6 +9,8 @@ Cord Dimensions
 Cord Radius
 ----
 
+.. image:: img/VBK_CordRadius.gif
+
 |
 
 Inner Cord Radius
