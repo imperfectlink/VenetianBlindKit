@@ -16,6 +16,13 @@ Requirements
 
 |
 
+Links
+~~~~
+
+`BlenderMarket <https://blendermarket.com/products/vbk>`_
+
+|
+
 .. toctree::
    :maxdepth: 4
    :hidden:
