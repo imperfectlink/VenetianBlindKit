@@ -34,3 +34,4 @@ Requirements
    headrail
    controls
    decor
+   bottomrail
