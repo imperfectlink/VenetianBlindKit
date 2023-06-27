@@ -32,3 +32,4 @@ Requirements
    slats
    cord
    headrail
+   controls
