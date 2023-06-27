@@ -67,6 +67,8 @@ Slat Extend
 
 Turn this value off if you don't want to have the slat extended. Eg. you have an object modeled to a specific size and should not be stretched.
 
+.. image:: img/VBK_SlatExtend.jpg
+
 |
 
 Slat Cutoff
