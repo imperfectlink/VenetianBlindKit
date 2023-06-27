@@ -85,6 +85,8 @@ Slat Offset
 
 Offset the position of your slat object if the origin is somewhere other than centered.
 
+.. image:: img/VBK_SlatOffset.jpg
+
 |
 
 Slat Hole Dimensions
