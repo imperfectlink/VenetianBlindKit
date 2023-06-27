@@ -39,6 +39,8 @@ Tape Thickness
 Ladder Offset Horizontal
 ----
 
+.. image:: img/VBK_LadderOffset.jpg
+
 |
 
 Ladder Depth
