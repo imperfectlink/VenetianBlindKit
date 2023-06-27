@@ -30,3 +30,4 @@ Requirements
    :caption: Advanced Settings
    
    slats
+   cord
