@@ -74,7 +74,7 @@ Turn this value off if you don't want to have the slat extended. Eg. you have an
 Slat Cutoff
 ----
 
-This is the exact point where you want to have the slat object extend.
+This is the exact point meaasured from the center that you want to have the slat object extend from.
 
 |
 
