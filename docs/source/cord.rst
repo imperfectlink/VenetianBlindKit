@@ -46,6 +46,8 @@ Ladder Offset Horizontal
 Ladder Depth
 ----
 
+.. image:: img/VBK_LadderDepth.jpg
+
 |
 
 Cord Settings
