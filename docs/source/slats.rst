@@ -76,6 +76,8 @@ Slat Cutoff
 
 This is the exact point meaasured from the center that you want to have the slat object extend from.
 
+.. image:: img/VBK_SlatCutoff.jpg
+
 |
 
 Slat Offset
