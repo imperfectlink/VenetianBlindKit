@@ -16,6 +16,8 @@ Cord Radius
 Inner Cord Radius
 ----
 
+.. image:: img/VBK_CordRadius2.jpg
+
 |
 
 Tape Width
