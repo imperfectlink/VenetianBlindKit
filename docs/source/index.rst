@@ -33,3 +33,4 @@ Requirements
    cord
    headrail
    controls
+   decor
