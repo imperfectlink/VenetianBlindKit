@@ -56,7 +56,7 @@ Cord Settings
 Cross Tape
 ----
 
-.. image:: img/CrossTape.gif
+.. image:: img/VBK_CrossTape.gif
 
 |
 
