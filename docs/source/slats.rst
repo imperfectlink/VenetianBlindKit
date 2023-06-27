@@ -58,6 +58,8 @@ Slat Base Width
 
 Set this value to the dimension of the modeled slat object.
 
+.. image:: img/VBK_SlatBaseWidth.jpg
+
 |
 
 Slat Extend
