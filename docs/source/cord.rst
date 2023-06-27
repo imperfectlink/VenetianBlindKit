@@ -32,6 +32,8 @@ Tape Width
 Tape Thickness
 ----
 
+.. image:: img/VBK_TapeThickness.jpg
+
 |
 
 Ladder Offset Horizontal
