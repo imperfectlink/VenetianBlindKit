@@ -11,12 +11,16 @@ Headrail Object
 
 The headrail object loaded into the blind assembly.
 
+.. image:: img/VBK_Headrails.jpg
+
 |
 
 Headrail Base Width
 ----
 
 Enter the blind width that the headrail object was designed for.
+
+.. image:: img/VBK_HeadrailBase.jpg
 
 |
 
