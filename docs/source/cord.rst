@@ -97,6 +97,8 @@ Center Verticals
 
 Some blind designs only have the vertical lines on the outside ladders. This affects whether the center holes are punched in the slats as well.
 
+.. image:: img/VBK_CenterVerticals.gif
+
 |
 
 Cord Tweaks
