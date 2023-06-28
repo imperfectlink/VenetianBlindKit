@@ -57,15 +57,21 @@ Pull 1 Dimensions (Lift)
 Pull 1 Offset
 ----
 
+Offset the lift control pull. This also serves as the basis for the position of the wand.
+
 |
 
 Pull 1 Length
 ----
 
+Length of the lift control cord.
+
 |
 
 Pull 1 Cord Angle
 ----
+
+
 
 |
 
