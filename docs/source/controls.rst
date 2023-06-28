@@ -9,15 +9,21 @@ Objects
 Tassel Object
 ----
 
+Load in the tassel object.
+
 |
 
 Wand Object
 ----
 
+Load in the wand object.
+
 |
 
 Wand Mount Object
 ----
+
+Load in the wand mount object.
 
 |
 
@@ -27,15 +33,21 @@ Wand Dimensions
 Wand Offset
 ----
 
+Offset the position of the wand.
+
 |
 
 Wand Mount Tilt
 ----
 
+Set the angle of the wand mount.
+
 |
 
 Wand Length
 ----
+
+Set the length of the wand.
 
 |
 
