@@ -103,25 +103,35 @@ Cord Tweaks
 Cord Resolution X
 ----
 
+The number of segments around the cord profile.
+
 |
 
 Cord Resolution Y
 ----
+
+The number of segments along the cord between each slat.
 
 |
 
 Ladder Top Scale
 ----
 
+Taper the top of the ladder to guide it into the headrail.
+
 |
 
 Ladder Top Offset Z
 ----
 
+Offset the top of the ladder into the hole in the headrail. This helps when changing the distance between the top slat and the headrail or to control overshoot.
+
 |
 
 Bottom Rail Profile
 ----
+
+
 
 |
 
