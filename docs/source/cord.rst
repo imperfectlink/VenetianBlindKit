@@ -131,7 +131,7 @@ Offset the top of the ladder into the hole in the headrail. This helps when chan
 Bottom Rail Profile
 ----
 
-
+This curve is used to add the cord around the bottom rail.
 
 |
 
@@ -141,10 +141,14 @@ Cord Materials
 Cord Material
 ----
 
+Material used for all the cord in the blind.
+
 |
 
 Tape Material
 ----
+
+Material used for the tape in the blind.
 
 |
 
