@@ -11,12 +11,16 @@ Cord Dimensions
 Cord Radius
 ----
 
+This value sets the radius of the cord that is at the outside of the ladder.
+
 .. image:: img/VBK_CordRadius.gif
 
 |
 
 Inner Cord Radius
 ----
+
+This value sets the radius of the internal cord (vertical and cross).
 
 .. image:: img/VBK_CordRadius2.jpg
 
@@ -25,12 +29,16 @@ Inner Cord Radius
 Tape Width
 ----
 
+Value for the width of the ladder tape. 
+
 .. image:: img/VBK_TapeWidth.gif
 
 |
 
 Tape Thickness
 ----
+
+Value for the thickness of the ladder tape.
 
 .. image:: img/VBK_TapeThickness.jpg
 
@@ -39,12 +47,16 @@ Tape Thickness
 Ladder Offset Horizontal
 ----
 
+The distance from the outside edge of the blinds to the ladder.
+
 .. image:: img/VBK_LadderOffset.jpg
 
 |
 
 Ladder Depth
 ----
+
+
 
 .. image:: img/VBK_LadderDepth.jpg
 
