@@ -16,7 +16,7 @@ The headrail object loaded into the blind assembly.
 Headrail Base Width
 ----
 
-Enter the width of the modeled headrail object.
+Enter the blind width that the headrail object was designed for.
 
 |
 
