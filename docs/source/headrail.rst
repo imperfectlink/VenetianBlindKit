@@ -30,7 +30,7 @@ Turn on or off whether the headrail extends with the blind assembly. You may wan
 Headrail Cutoff
 ----
 
-This is the exact point meaasured from the center that you want to have the headrail object extend from.
+This is the exact point measured from the center that you want to have the headrail object extend from.
 
 |
 
