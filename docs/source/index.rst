@@ -6,6 +6,8 @@
 Welcome to Venetian Blind Kit documentation!
 ====
 
+|
+
 .. image:: img/VBK_Banner.gif
 
 |
