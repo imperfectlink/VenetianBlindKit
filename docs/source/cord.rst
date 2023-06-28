@@ -136,6 +136,8 @@ Ladder Top Offset Z
 
 Offset the top of the ladder into the hole in the headrail. This helps when changing the distance between the top slat and the headrail or to control overshoot.
 
+.. image:: img/VBK_LadderTopOffset.jpg
+
 |
 
 Bottom Rail Profile
