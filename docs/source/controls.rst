@@ -71,17 +71,21 @@ Length of the lift control cord.
 Pull 1 Cord Angle
 ----
 
-
+Offset the angle that the cord comes out of the headrail.
 
 |
 
 Pull 1 Range
 ----
 
+Adjust the range of motion that the pull cord moves as the blind is raised.
+
 |
 
 Pull 1 End Offset
 ----
+
+Offset the position of the tassels of the lift control pull.
 
 |
 
@@ -98,20 +102,28 @@ Offset the position of the tilt control pull. This also serves as the basis for 
 Pull 2 Length
 ----
 
+Length of the tilt control cord.
+
 |
 
 Pull 2 End Offset
 ----
+
+Offset the position of the tassels of the tilt control pull.
 
 |
 
 Pull 2 Cord Angle
 ----
 
+Offset the angle that the cord comes out of the headrail.
+
 |
 
 Pull 2 Range
 ----
+
+Adjust the range of motion that the tilt cord moves as the blind is tiled.
 
 |
 
