@@ -1,4 +1,8 @@
 
+
+|
+
+
 Welcome to Venetian Blind Kit documentation!
 ====
 
