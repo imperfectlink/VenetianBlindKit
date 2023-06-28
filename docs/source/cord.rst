@@ -145,6 +145,8 @@ Bottom Rail Profile
 
 This curve is used to add the cord around the bottom rail.
 
+.. img:: img/VBK_BottomRailProfile.jpg
+
 |
 
 Cord Materials
