@@ -111,12 +111,16 @@ Cord Resolution X
 
 The number of segments around the cord profile.
 
+.. image:: img/VBK_CurveResX.jpg
+
 |
 
 Cord Resolution Y
 ----
 
 The number of segments along the cord between each slat.
+
+.. image:: img/VBK_CurveResY.jpg
 
 |
 
