@@ -79,6 +79,8 @@ Ladders
 
 The number of ladders in the blind.
 
+.. image:: img/VBK_Ladders.gif
+
 |
 
 Verticals
