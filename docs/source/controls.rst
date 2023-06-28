@@ -57,7 +57,7 @@ Pull 1 Dimensions (Lift)
 Pull 1 Offset
 ----
 
-Offset the lift control pull. This also serves as the basis for the position of the wand.
+Offset the lift control pull.
 
 |
 
@@ -90,6 +90,8 @@ Pull 2 Dimensions (Tilt)
 
 Pull 2 Offset
 ----
+
+Offset the position of the tilt control pull. This also serves as the basis for the position of the wand.
 
 |
 
