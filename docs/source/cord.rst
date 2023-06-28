@@ -56,7 +56,7 @@ The distance from the outside edge of the blinds to the ladder.
 Ladder Depth
 ----
 
-
+The depth of the ladder. Set this value to the depth of the slat plus some extra for movement.
 
 .. image:: img/VBK_LadderDepth.jpg
 
@@ -68,6 +68,8 @@ Cord Settings
 Cross Tape
 ----
 
+Toggle whether the cross cord is tape or cord.
+
 .. image:: img/VBK_CrossTape.gif
 
 |
@@ -75,20 +77,28 @@ Cross Tape
 Ladders
 ----
 
+The number of ladders in the blind.
+
 |
 
 Verticals
 ----
+
+Turn on and off the vertical cords.
 
 |
 
 Center Verticals
 ----
 
+Some blind designs only have the vertical lines on the outside ladders. This affects whether the center holes are punched in the slats as well.
+
 |
 
 Cord Tweaks
 ~~~~
+
+
 
 Cord Resolution X
 ----
