@@ -88,6 +88,8 @@ Verticals
 
 Turn on and off the vertical cords.
 
+.. image:: img/VBK_Verticals.gif
+
 |
 
 Center Verticals
