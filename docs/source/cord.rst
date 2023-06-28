@@ -104,8 +104,6 @@ Some blind designs only have the vertical lines on the outside ladders. This aff
 Cord Tweaks
 ~~~~
 
-
-
 Cord Resolution X
 ----
 
@@ -128,6 +126,8 @@ Ladder Top Scale
 ----
 
 Taper the top of the ladder to guide it into the headrail.
+
+.. image:: img/VBK_LadderTopScale.jpg
 
 |
 
