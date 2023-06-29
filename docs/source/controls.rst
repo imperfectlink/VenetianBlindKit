@@ -11,6 +11,8 @@ Tassel Object
 
 Load in the tassel object.
 
+.. image:: img/VBK_Tassels.gif
+
 |
 
 Wand Object
