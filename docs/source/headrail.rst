@@ -38,12 +38,16 @@ Headrail Cutoff
 
 This is the exact point measured from the center that you want to have the headrail object extend from.
 
+.. image:: img/VBK_HeadrailCutoff.jpg
+
 |
 
 Headrail Offset
 ----
 
 Offset the position of the headrail. This helps if your headrail object doesn't align with the assembly.
+
+.. image:: img/VBK_HeadrailOffset.jpg
 
 |
 
