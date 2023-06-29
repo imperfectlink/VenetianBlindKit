@@ -20,7 +20,7 @@ Wand Object
 
 Load in the wand object.
 
-.. image:: image/VBK_Wands.gif
+.. image:: img/VBK_Wands.gif
 
 |
 
