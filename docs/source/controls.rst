@@ -20,6 +20,8 @@ Wand Object
 
 Load in the wand object.
 
+.. image:: image/VBK_Wands.gif
+
 |
 
 Wand Mount Object
