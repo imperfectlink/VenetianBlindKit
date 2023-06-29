@@ -59,6 +59,8 @@ Headrail Cord Cutout
 
 Toggle whether holes are cut into the headrail object for ladder cord to enter.
 
+.. image:: img/VBK_HeadrailCordCutout.gif
+
 |
 
 Headrail Cord Cutout Size
