@@ -85,6 +85,8 @@ Headrail Lift Cutout
 
 Toggle the headrail cutout for the lift control.
 
+.. image:: img/VBK_HeadrailLiftCutout.gif
+
 |
 
 Headrail Lift Cutout Size
@@ -108,6 +110,8 @@ Headrail Tilt Cutout
 ----
 
 Toggle the headrail cutout for the lift control.
+
+.. image:: img/VBK_HeadrailLiftCutout.gif
 
 |
 
