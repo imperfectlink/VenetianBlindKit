@@ -109,9 +109,9 @@ Headrail Tilt Cutout Settings
 Headrail Tilt Cutout
 ----
 
-Toggle the headrail cutout for the lift control.
+Toggle the headrail cutout for the tilt control.
 
-.. image:: img/VBK_HeadrailLiftCutout.gif
+.. image:: img/VBK_HeadrailTiltCutout.gif
 
 |
 
