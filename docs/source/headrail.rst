@@ -29,6 +29,8 @@ Headrail Extend
 
 Turn on or off whether the headrail extends with the blind assembly. You may want to turn this off if you modeled a headrail to precise measurements and wish to maintain the original scale.
 
+.. image:: img/VBK_HeadrailExtend.jpg
+
 |
 
 Headrail Cutoff
