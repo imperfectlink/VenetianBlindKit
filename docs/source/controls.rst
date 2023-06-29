@@ -29,6 +29,8 @@ Wand Mount Object
 
 Load in the wand mount object.
 
+.. image:: img/VBK_WandMounts.gif
+
 |
 
 Wand Dimensions
